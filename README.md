@@ -1,3 +1,7 @@
+# Abandoned Project
+
+**NOTE**: This project is no longer being maintained.
+
 # Fluent::Plugin::ExplodeFilter
 
 This gem provides the explode Fluentd filter which is used to convert period separated fields to nested hashes. 
